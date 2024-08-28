@@ -36,7 +36,7 @@ Step 2. Add the dependency
   
 
 	dependencies {
-	        implementation 'com.github.saitawngpha:NativeAds-RecyclerView:1.0.2'
+	        implementation 'com.github.akashkinhaak:AdmobNativeInRecyclerView:1.0'
 	}
 
 
@@ -73,7 +73,7 @@ Native ads Small Layout |  Native ads Medium Layout
 <img src="1.png" width="250px"/>  |  <img src="2.png" width="250px"/> 
 
 ## Reference Project
-![Special thanks to daoibrahim](https://github.com/daoibrahim/AdmobAdvancedNativeRecyclerview)
+![Special thanks to daoibrahim]( https://github.com/daoibrahim/AdmobAdvancedNativeRecyclerview)
 
 
 ### Donate Me
